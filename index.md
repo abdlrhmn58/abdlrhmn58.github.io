@@ -11,7 +11,7 @@ I'm an AI Engineer, Data Scientist, and ROS Developer focused on building recrui
 ---
 
 ## 📂 Links
-- 🐙 [GitHub Profile](https://github.com/abdrhmn58/)  
+- 🐙 [GitHub Profile](https://github.com/abdlrhmn58)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahman-el-rafey/)  
 - 🤖 [Hugging Face Spaces](https://huggingface.co/abdlrhmn58)  
 - 📄 [Resume PDF](resume.pdf)  
