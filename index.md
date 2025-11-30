@@ -5,7 +5,7 @@ I'm an AI Engineer, Data Scientist, and ROS Developer focused on building recrui
 ---
 
 ## 🚀 Featured Projects
-- [Resume Enhancer](https://huggingface.co/spaces/ddharwad84/resume-enhancer)  
+- [Resume Enhancer](https://huggingface.co/spaces/abdlrhmn58/resume-enhancer)  
   Rewrite resume summaries in different styles using Hugging Face + Streamlit.
 
 ---
