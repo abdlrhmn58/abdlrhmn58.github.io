@@ -11,7 +11,7 @@ I'm an AI Engineer, Data Scientist, and ROS Developer focused on building recrui
   A Gradio-powered AI interview prep bot that rephrases candidate answers into recruiter-friendly responses and guides them through a structured mock interview.
 - [Weekly Email Dashboard](https://huggingface.co/spaces/abdlrhmn58/Weekly-Email-Dashboard)
   A recruiter‑friendly AI productivity email dashboard that lets users log weekly achievements, auto‑rephrase them into a professional email highlights, track progress against     a customizable target, and visualize results with interactive charts.
-  - [Multi Channel AI Agent](https://huggingface.co/spaces/abdlrhmn58/multi-channel-ai-agent)  
+- [Multi Channel AI Agent](https://huggingface.co/spaces/abdlrhmn58/multi-channel-ai-agent)  
 AI-powered customer service system with WhatsApp integration, persistent memory, and smart appointment booking
 ---
 
