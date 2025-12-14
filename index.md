@@ -13,6 +13,9 @@ I'm an AI Engineer, Data Scientist, and ROS Developer focused on building recrui
   A recruiter‑friendly AI productivity email dashboard that lets users log weekly achievements, auto‑rephrase them into a professional email highlights, track progress against     a customizable target, and visualize results with interactive charts.
 - [Multi Channel AI Agent](https://huggingface.co/spaces/abdlrhmn58/multi-channel-ai-agent)  
 AI-powered customer service system with WhatsApp integration, persistent memory, and smart appointment booking
+- [AI Sales Lead Qualifier Agent](https://huggingface.co/spaces/abdlrhmn58/ai-sales-lead-qualifier)  
+ Automate sales qualification with AI-powered conversations + HubSpot CRM integration
+
 ---
 
 ## 📂 Links
